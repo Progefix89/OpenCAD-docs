@@ -7,7 +7,7 @@
 - Windows server running Windows 2016 or above (earlier versions will work, but not supported by Microsoft.)
 - IIS 8.0 or above
 - Recommended but not required: PHP Manager for IIS (helps with configuring PHP on Windows to avoid having to manually enter values into php.ini)
-- database server: either MySQL 5 or MariaDB 10
+- database server: either MySQL 8.0 or MariaDB 10.0
 
 ### Installation Steps
 
